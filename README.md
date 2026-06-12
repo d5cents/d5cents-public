@@ -1,9 +1,15 @@
-# AudioThrough Privacy Policy
+# d5cents-public
 
-Public privacy policy for **AudioThrough**, a macOS menu bar app for routing audio between devices.
+Public documents for apps by Drew Nichols ([@d5cents](https://github.com/d5cents)).
 
-**Full policy:** [privacy-policy.md](privacy-policy.md)
+## AudioThrough
 
-**App Store Connect URL:**
+| Document | Link |
+|----------|------|
+| Privacy Policy | [privacy-policy.md](privacy-policy.md) |
+| Support | [support.md](support.md) |
 
-`https://github.com/drewnicholsmusic/AudioThrough-privacy/blob/main/privacy-policy.md`
+### App Store Connect URLs
+
+- **Privacy Policy:** `https://github.com/d5cents/d5cents-public/blob/main/privacy-policy.md`
+- **Support URL:** `https://github.com/d5cents/d5cents-public/blob/main/support.md`
